@@ -76,7 +76,7 @@ docker run -d -p 8080:80 --name my-lab5-app lab5-app
 
 ## 4. Weryfikacja działania kontenera i aplikacji
 
-**Działanie aplikacji (wynik z przeglądarki z widocznym adresem IP, Hostname oraz Wersją):**
+**Działanie aplikacji:**
 
 <img width="498" height="323" alt="Screenshot_20260401_103643" src="https://github.com/user-attachments/assets/60a083f1-f14a-4a66-b42d-c976c5ff2172" />
 
