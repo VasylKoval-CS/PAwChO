@@ -1,4 +1,4 @@
-# PAwCho - Laboratorium 5
+# PAwChO - Laboratorium 5
 
 ## 1. Treść utworzonego pliku Dockerfile
 
